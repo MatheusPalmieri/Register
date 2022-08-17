@@ -23,7 +23,7 @@
  <a href="https://matheuspalmieri.github.io/Login-Regex/">Site Do Projeto</a>
 </p>
 
-<img src="imagem.png" width="1366px" align="center">
+<img src="Animação.gif" width="1366px" align="center">
 
 <!-- Atualizações -->
 
