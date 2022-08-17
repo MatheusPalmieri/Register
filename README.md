@@ -15,7 +15,15 @@
  <a href="#autor">Autor</a>
 </p>
 
-<!-- <img src="images/imagem.png" width="1366px" align="center"> -->
+<!-- Site -->
+
+<h2 align="center">Site</h2>
+
+<p align="center">
+ <a href="https://matheuspalmieri.github.io/Login-Quarter/">Site Do Projeto</a>
+</p>
+
+<img src="imagem.png" width="1366px" align="center">
 
 <!-- Atualizações -->
 
@@ -27,9 +35,7 @@
 
 ### Rodando A Aplicação
 
-<p align="center">
- <a href="https://logindark-matheuspalmieri.netlify.app//">Site Do Projeto</a>
-</p>
+<a href="https://matheuspalmieri.github.io/Login-Quarter/">Site Do Projeto</a>
 
 ---
 
