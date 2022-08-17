@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Title Page -->
+    <title>Register</title>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <section>
+
+            <article class="title">
+                <h1>Register</h1>
+            </article>
+
+            <article class="form">
+                <form action="#" method="POST">
+
+                    <h2>Fill in the fields below</h2>
+
+                    <div class="fieldName">
+                        <input type="text" name="name" id="name" placeholder="Your name" class="required" oninput="nameValidate()">
+                        <span id="required">Your name must contain at least 3 characters.</span>
+                    </div>
+
+                    <div class="fieldEmail">
+                        <input type="email" name="email" id="email" placeholder="Your e-mail" class="required" oninput="emailValidate()">
+                        <span id="required">Enter a valid email.</span>
+                    </div>
+
+                    <div class="fieldPassword">
+                        <input type="password" name="password" id="password" class="password required" placeholder="Password" oninput="passwordValidate()">
+                        <span id="required">Enter a password with at least 8 characters.</span>
+                    </div>
+
+                    <div class="fieldConfirmPassword">
+                        <input type="password" name="confirmPassword" id="confirmPassword" class="password required" placeholder="Confirm password" oninput="compatiblePasswordValidate()">
+                        <span id="required">Your passwords must be compatible.</span>
+                    </div>
+
+                    <button type="submit" class="submit">Submit</button>
+                </form>
+            </article>
+        </section>
+    </main>
+
+    <!-- Script -->
+    <script src="script.js"></script>
+</body>
+</html>
