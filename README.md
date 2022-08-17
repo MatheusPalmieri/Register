@@ -10,7 +10,7 @@
 
 <p align="center">
 <!--  <a href="#features">Features</a> • -->
- <a href="#rodando-a-aplicação">Rodando A Aplicação</a> •
+ <a href="#rodando-a-aplicação">Rodando a Aplicação</a> •
  <a href="#tecnologias">Tecnologias</a> •
  <a href="#autor">Autor</a>
 </p>
@@ -27,7 +27,9 @@
 
 ### Rodando A Aplicação
 
-em breve :)
+<p align="center">
+ <a href="https://logindark-matheuspalmieri.netlify.app//">Site Do Projeto</a>
+</p>
 
 ---
 
