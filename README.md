@@ -1,6 +1,6 @@
 <!-- Título -->
 
-<h1 align="center">Login Regex</h1>
+<h1 align="center">Register</h1>
 
 <!-- Descrição -->
 
@@ -58,5 +58,5 @@ Create for <b>`Matheus Palmieri`</b>👨‍💻
 <br>
 <br>
 
-<p align="center">🎉Projeto Login Regex Finalizado🚀</p>
+<p align="center">🎉Projeto Register Finalizado🚀</p>
 
