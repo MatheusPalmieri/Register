@@ -37,7 +37,7 @@
 
 ### Rodando A Aplicação
 
-<a href="https://matheuspalmieri.github.io/Login-Regex/">Site Do Projeto</a>
+<a href="https://matheuspalmieri.github.io/Register/" target="_blank">Site Do Projeto</a>
 
 ---
 
