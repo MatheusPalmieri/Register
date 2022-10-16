@@ -20,7 +20,7 @@
 <h2 align="center">Site</h2>
 
 <p align="center">
- <a href="https://matheuspalmieri.github.io/Login-Regex/">Site Do Projeto</a>
+ <a href="https://matheuspalmieri.github.io/Register/" target="_blank">Site Do Projeto</a>
 </p>
 
 <div width="1366">
