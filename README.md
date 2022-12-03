@@ -20,18 +20,12 @@
 <h2 align="center">Site</h2>
 
 <p align="center">
- <a href="https://matheuspalmieri.github.io/Register/" target="_blank">Site Do Projeto</a>
+ <a href="https://matheuspalmieri.github.io/Register/">Site Do Projeto</a>
 </p>
 
 <div width="1366">
  <img src="Animação.gif" align="center">
 </div>
-
-<!-- Atualizações -->
-
-<!-- ### Features -->
-
-<!-- - [ ] . -->
 
 ---
 
